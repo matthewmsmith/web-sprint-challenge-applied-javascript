@@ -27,14 +27,19 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+The document object model is a tree like hierarchy that you can manipulated with javascript
 
 2. What is an event?
+A javascript event is triggered by something happening in the dom the causes that event to fire.
 
 3. What is an event listener?
+Event listener - listens for the type of event thats being fired
 
 4. Why would we convert a NodeList into an Array?
+   Because NodeList are static
 
 5. What is a component?
+  A class that contains a section of the web page, nav, header, article etcs
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
